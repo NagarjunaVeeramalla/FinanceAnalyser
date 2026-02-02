@@ -1,0 +1,6 @@
+data/raw_pdfs/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+debug_*.log
