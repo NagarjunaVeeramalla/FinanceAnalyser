@@ -1,0 +1,8 @@
+pandas
+pdfplumber
+pypdf2
+openpyxl
+xlsxwriter
+numpy
+tabula-py
+streamlit

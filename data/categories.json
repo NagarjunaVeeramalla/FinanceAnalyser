@@ -1,0 +1,96 @@
+{
+    "Food": [
+        "swiggy",
+        "zomato",
+        "restaurant",
+        "cafe",
+        "food",
+        "burger",
+        "pizza",
+        "starbucks",
+        "mcdonalds",
+        "kfc",
+        "tobox ve ntures",
+        "cane hou se"
+    ],
+    "Grocery": [
+        "samudral a satyanaray",
+        "samudral a satyanaraya",
+        "blink commerce",
+        "zepto"
+    ],
+    "Shopping": [
+        "amazon",
+        "flipkart",
+        "myntra",
+        "zara",
+        "h&m",
+        "retail",
+        "store",
+        "mart",
+        "mall"
+    ],
+    "Travel": [
+        "uber",
+        "ola",
+        "rapido",
+        "irctc",
+        "airline",
+        "indigo",
+        "air india",
+        "hotel",
+        "makemytrip",
+        "fuel",
+        "petrol",
+        "shell"
+    ],
+    "Utilities": [
+        "electricity",
+        "water",
+        "bill",
+        "bescom",
+        "bwssb",
+        "gas",
+        "jio",
+        "airtel",
+        "vodafone"
+    ],
+    "Rent": [
+        "rent",
+        "landlord",
+        "broker"
+    ],
+    "Investment": [
+        "zerodha",
+        "groww",
+        "upstox",
+        "mutual fund",
+        "sip",
+        "stocks"
+    ],
+    "EMI": [
+        "emi",
+        "loan",
+        "bajaj",
+        "finance",
+        "repayment",
+        "installment"
+    ],
+    "UPI Payment": [
+        "upi",
+        "transfer to",
+        "paid to"
+    ],
+    "Salary": [
+        "salary",
+        "payroll",
+        "bonus"
+    ],
+    "Grooming": [
+        "salon",
+        "barber",
+        "spa",
+        "grooming",
+        "naturals ss"
+    ]
+}
